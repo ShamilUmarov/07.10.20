@@ -1,6 +1,6 @@
 table {
   border-collapse: collapse;
-  width: 100%;
+  width: 60%;
 }
 
 th, td {
@@ -9,3 +9,15 @@ th, td {
 }
 
 tr:nth-child(even) {background-color: #f2f2f2;}
+#top{
+  color: black;
+  background-color: teal;
+}
+#ret{
+  background-color: white;
+  border-top: 1px solid black;
+}
+
+th {
+  text-align: center;
+}
