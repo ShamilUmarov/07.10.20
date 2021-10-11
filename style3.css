@@ -3,9 +3,34 @@ table {
   width: 70%;
 }
 
-tr:nth-child(even) {background-color: #f2f2f2;
-}
+
 th, td {
   padding: 15px;
   text-align: left;
+}
+#rot{
+  color: wheat;
+  background-color: rgb(27, 27, 63);
+}
+#text-1{
+  text-align: right;
+
+}
+#text-2{
+  text-align: right;
+
+}
+#text-3{
+  text-align: right;
+
+}
+#text-6{
+  color: rgb(9, 9, 48) ;
+  background-color: rgb(177, 175, 175);
+} 
+#rot-1{
+  background-color: rgb(177, 175, 175);
+}
+#rot-2{
+  background-color: rgb(177, 175, 175);
 }
